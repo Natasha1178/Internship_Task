@@ -1,0 +1,44 @@
+#  Internship Flutter Project
+
+## 👩‍💻 Developed by: Natasha Khan
+
+This repository includes all tasks completed during the 3-week internship program. 
+The project showcases the use of Flutter for building basic UI, state management, navigation, persistent storage using SharedPreferences, 
+and creating a functional task management app.
+
+---
+
+## 📅 Weekly Overview
+
+### ✅ Week 1: Basic UI & Navigation
+  
+#### 📲 Tasks:
+- Created a **Login Screen** using `TextFormField`, `FlatButton`, `Text`, and layout widgets like `Column`, `Row`, `Container`.
+-Login and signup screen create when we login then Home Screen is open .
+
+
+---
+
+### ✅ Week 2: Data Management & Storage
+#### 📲 Tasks:
+- Built a **Counter App** using `setState`.
+- Integrated **SharedPreferences** to:
+  - Save counter value on increment/decrement.
+  - Retrieve saved value on app restart.
+- Created a **To-Do List App** that allows:
+  - Add, view tasks in a `ListView`
+  - Save tasks locally using `SharedPreferences`
+
+---
+
+### ✅ Week 3: Final Task Management App
+
+#### 📲 Features:
+- Home screen with list of tasks.
+- Add new tasks using `TextField`.
+- Delete tasks by long press or delete icon.
+- Mark tasks as complete using checkbox or toggle.
+- Persistent storage using `SharedPreferences`.
+- Custom AppBar with title & add icon.
+- Used Flutter `Icons` for better UI.
+
